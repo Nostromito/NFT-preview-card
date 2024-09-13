@@ -45,6 +45,8 @@ h1 {
 
 .image {
     border-radius: 10px;
+    width: 100%;
+    height: 100%;
 }
 
 .hover {
@@ -53,7 +55,7 @@ h1 {
 
 .icon {
     width: 100%;
-    height: 100%;
+    height: 99%;
     position: absolute;
     z-index: 2;
     opacity: 0;
